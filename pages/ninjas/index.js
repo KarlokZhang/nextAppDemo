@@ -1,4 +1,4 @@
-const Ninja = () => {
+const Ninjas = () => {
   return (
     <div>
       <h1>All Ninjas</h1>
@@ -6,4 +6,4 @@ const Ninja = () => {
   );
 };
 
-export default Ninja;
+export default Ninjas;
